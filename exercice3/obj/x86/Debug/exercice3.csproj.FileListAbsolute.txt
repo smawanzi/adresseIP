@@ -1,0 +1,6 @@
+U:\Slam2\gestionIP\exercice3\obj\x86\Debug\exercice3.csprojResolveAssemblyReference.cache
+U:\Slam2\gestionIP\exercice3\bin\Debug\exercice3.exe
+U:\Slam2\gestionIP\exercice3\bin\Debug\exercice3.pdb
+U:\Slam2\gestionIP\exercice3\bin\Debug\adresseIp.dll
+U:\Slam2\gestionIP\exercice3\obj\x86\Debug\exercice3.exe
+U:\Slam2\gestionIP\exercice3\obj\x86\Debug\exercice3.pdb

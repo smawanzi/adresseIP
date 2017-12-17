@@ -1,0 +1,7 @@
+U:\Slam2\gestionIP\gestionIP\obj\x86\Debug\gestionIP.csprojResolveAssemblyReference.cache
+U:\Slam2\gestionIP\gestionIP\bin\Debug\gestionIP.exe
+U:\Slam2\gestionIP\gestionIP\bin\Debug\gestionIP.pdb
+U:\Slam2\gestionIP\gestionIP\bin\Debug\adresseIp.dll
+U:\Slam2\gestionIP\gestionIP\bin\Debug\adresseIp.xml
+U:\Slam2\gestionIP\gestionIP\obj\x86\Debug\gestionIP.exe
+U:\Slam2\gestionIP\gestionIP\obj\x86\Debug\gestionIP.pdb
